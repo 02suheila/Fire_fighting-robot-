@@ -1,0 +1,31 @@
+Fire Fighter Robot using Arduino
+Now a days if any fire accidents happens in Power plants, Buildings, etc., the time and consumption of human power is high. So there may be a possibility of Heavy damage to human beings.
+Objective
+Design and development of low cost firefighting robot.
+Run automatically firefighting robot.
+Extinguish fire.
+
+Introduction
+Fire fighter robot can be used to control the fire. this robot can detect the fire by itself and control the fire by throwing water. there are some sensors we are using that can detect fire and robots can
+move there to fire extinguish.The fire fighting robot has the same structure as Bluetooth control RC car. the robot has 3 sensors 1 sensor at the front side which see if there is anything in front of the robot
+and the other two at the both front corner which also searches for fire. if any sensor detects fire at any site the robot will sensor and move towards it. the fire fighting robot has 4 wheels, 3 sensors, 
+one water tank, one nozzle, and a computer which help him to take decision according to the Arduino code.
+
+Components Required
+Arduino Uno
+flame IR Sensor
+Robot Chassis
+12v Battery
+Wires
+Nozzle for water
+Water pump 5v
+Single channel relay
+
+Application
+Fire fighter robot can be used in the Area where a can’t go
+
+Fire fighter obot use in war
+
+Fire fighter robot can be used at big kitchen
+
+Fire fighter robot can be used it Restaurent
